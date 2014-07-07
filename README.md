@@ -2,7 +2,7 @@ mount-remote
 ============
 
 
-###1. install OSXFUSE 
+###1. Install OSXFUSE 
 http://sourceforge.net/projects/osxfuse/
 
 osxfuse-{VERSION}.dmg 
