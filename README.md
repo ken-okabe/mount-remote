@@ -32,7 +32,7 @@ $ sshfs [user@]host:[dir] mountpoint [options]
 
 mkdir remote
 
-sshfs -o IdentityFile=/Volumes/GD15/gd1/azure/myPrivateKey.key ken@mt5-dc-ubuntu.cloudapp.net:/home/ken ~/remote
+sshfs -o IdentityFile=/Volumes/GD15/gd1/azure/myPrivateKey.key ken@some-host.net:/home/ken ~/remote
 
 ###5. Unmount
 
