@@ -10,7 +10,7 @@ osxfuse-{VERSION}.dmg
 check `Mac FUSE Compatibility Layer` while install
 
 ###2. Install SSHFS
-htps://github.com/osxfuse/sshfs/downloads
+https://github.com/osxfuse/sshfs/downloads
 
 SSHFS-{VERSION}.pkg 
 
